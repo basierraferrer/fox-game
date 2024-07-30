@@ -1,0 +1,23 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "Version of a virtual pet game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basierraferrer/fox-game.git"
+  },
+  "keywords": [
+    "game",
+    "javascript"
+  ],
+  "author": "basierraferrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basierraferrer/fox-game/issues"
+  },
+  "homepage": "https://github.com/basierraferrer/fox-game#readme"
+}
